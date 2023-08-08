@@ -58,23 +58,15 @@ Here are visualizations of the simulation results using different methods:
 
 ### Fluent
 
-```
-![Fluent](figs/fluent.gif)
-```
+![til](./figs/fluent.gif)
 
 ### OpenFOAM
 
-```
-![OpenFOAM](figs/of.gif)
-```
+![til](./figs/of.gif)
 
 ### Lattice Boltzmann
 
-```
-![Lattice Boltzmann](figs/lbm.gif)
-```
-
-
+![til](./figs/lbm.gif)
 
 
 ## Acknowledgments
